@@ -3,7 +3,7 @@ import pyglet
 import random
 
 from engine.game import Game
-from lab import FastMonster, SpeedMonster, ShieldMonster
+from lab import FastMonster
 
 
 def get_random():
